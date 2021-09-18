@@ -1,0 +1,97 @@
+.register-page .page-header .square.square-2 {
+  background-image: url("../../../Assets/img/square2.png");
+  height: 400px;
+  width: 330px;
+  border-radius: 0;
+}
+.register-page .page-header .square.square-3 {
+  background-image: url("../../../Assets/img/square3.png");
+  height: 200px;
+  width: 165px;
+  border-radius: 0;
+}
+.register-page .page-header .square.square-4 {
+  background-image: url("../../../Assets/img/square4.png");
+  height: 100px;
+  width: 83px;
+  border-radius: 0;
+}
+.register-page .page-header .square.square-5 {
+  background-image: url("../../../Assets/img/square5.png");
+  height: 250px;
+  width: 206px;
+  border-radius: 0;
+}
+.register-page .page-header .square.square-6 {
+  background-image: url("../../../Assets/img/square6.png");
+  height: 80px;
+  width: 66px;
+  border-radius: 0;
+}
+.react-select.react-select--is-disabled .react-select__control--is-disabled {
+  background-color: #141423 !important;
+}
+.rdtMonths,
+.rdtYears {
+  color: #525f81;
+}
+* .form-group .input-group-prepend .input-group-text {
+  border-color: indigo;
+}
+.squares {
+  border-radius: 0;
+}
+.login-page .page-header .squares.square1,
+.login-page .page-header .squares.square2 {
+  background-image: url("../../../Assets/img/square2.png");
+  height: 400px;
+  width: 330px;
+}
+.login-page .page-header .squares.square3 {
+  background-image: url("../../../Assets/img/square3.png");
+  height: 200px;
+  width: 165px;
+}
+.login-page .page-header .squares.square4 {
+  background-image: url("../../../Assets/img/square4.png");
+  height: 100px;
+  width: 83px;
+}
+.login-page .page-header .squares.square5 {
+  background-image: url("../../../Assets/img/square5.png");
+  height: 250px;
+  width: 206px;
+}
+.login-page .page-header .squares.square6 {
+  background-image: url("../../../Assets/img/square6.png");
+  height: 80px;
+  width: 66px;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus + .input-group-text,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0.8) !important;
+}
+.login-page .has-danger.has-label:after {
+  top: 12px;
+}
+.customCard {
+  align-items: center;
+}
+.has-danger.form-group textarea.custm-textArea {
+  border-color: #f33620;
+}
+.login-page .has-danger.denyReason-label:after {
+  top: 67px;
+}
+.datepicker-birthdate {
+  width: calc(100% - 40px);
+}
+.form-group .rdt.datepicker-birthdate input {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: 0 none;
+  border-right: 1px solid #2b3553;
+}

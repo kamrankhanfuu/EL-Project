@@ -1,0 +1,28 @@
+.card-register.card .member-check {
+    margin-left: 0;
+    margin-top: 10px;
+    display: flex;
+}
+
+.card-register.card .member-check label {
+    padding-left: 20px !important;
+}
+.member-radio input {
+    margin-left: 0;
+    position: static;
+    margin-top: 0;
+    cursor: pointer;
+}
+
+.member-radio {
+    margin-left: 30px;
+}
+
+.member-radio label + input {
+    margin-left: 20px;
+}
+
+.card-register.card .member-check .member-radio label {
+    padding-left: 5px !important;
+    vertical-align: text-top;
+}

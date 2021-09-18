@@ -1,0 +1,17 @@
+.rdtPickerup {
+    .rdtPicker {
+    top: inherit;
+    bottom: 40px;
+    &::before {
+        top: inherit;
+        bottom: -5px;
+        transform: rotate(180deg);
+    }
+    &::after {
+        opacity: 0;
+    }
+}
+}
+.required-mark {
+    color: red;
+}
