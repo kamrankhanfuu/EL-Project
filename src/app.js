@@ -139,7 +139,7 @@ class Admin extends React.Component {
           activeColor={this.state.activeColor}
           logo={{
             outterLink: URL_DASHBOARD,
-            text: "Eleveight",
+            text: "EL",
             imgSrc: logo,
           }}
           closeSidebar={this.closeSidebar}
